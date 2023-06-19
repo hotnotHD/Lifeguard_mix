@@ -1,0 +1,10 @@
+../Core/Src/windows_drawer.c:12:6:main_page	8	static
+../Core/Src/windows_drawer.c:52:6:menu_open	16	static
+../Core/Src/windows_drawer.c:77:6:delete_menu	8	static
+../Core/Src/windows_drawer.c:83:6:sensors_draw	40	static
+../Core/Src/windows_drawer.c:133:6:work_mode	16	static
+../Core/Src/windows_drawer.c:163:9:change_vent_mode	16	static
+../Core/Src/windows_drawer.c:193:6:delete_main_frame	8	static
+../Core/Src/windows_drawer.c:197:6:settings_draw	32	static
+../Core/Src/windows_drawer.c:205:6:settings_frame	16	static
+../Core/Src/windows_drawer.c:227:6:circle_draw	16	static

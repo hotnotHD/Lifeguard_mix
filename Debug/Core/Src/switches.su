@@ -1,0 +1,2 @@
+../Core/Src/switches.c:19:6:PowerEnabled	16	static
+../Core/Src/switches.c:38:6:SwitchesProcess	16	static

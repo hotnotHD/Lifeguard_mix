@@ -1,0 +1,7 @@
+../Modules/Button/button.c:46:6:BUTTON_LowLevelManager	32	static
+../Modules/Button/button.c:102:6:BUTTON_HighLevelManager	16	static
+../Modules/Button/button.c:145:6:BUTTON_Process	8	static
+../Modules/Button/button.c:154:6:BUTTON_TimerProcess	16	static
+../Modules/Button/button.c:177:14:BUTTON_GetAction	16	static
+../Modules/Button/button.c:185:6:BUTTON_ResetActions	16	static
+../Modules/Button/button.c:196:6:BUTTON_Init	16	static
